@@ -3,7 +3,7 @@ import requests
 
 url = "https://api-inference.huggingface.co/models/gpt2"
 headers = {
-    "Authorization": "Bearer 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",
+    "Authorization": "Bearer myAPIkey",
     "Content-Type": "application/json"
 }
 payload = {
